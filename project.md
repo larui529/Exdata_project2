@@ -1,10 +1,10 @@
-##This is my code for project
+#This is my code for project
 
-#Attached are my codes for different plot. I assume the uncompressed file 
-#summarySCC_PM25.rds and Source_Classfication_Code.rds are in the folder #ofexdata-data-NET_data
+##Attached are my codes for different plot. I assume the uncompressed fil 
+##summarySCC_PM25.rds and Source_Classfication_Code.rds are in the folder ##ofexdata-data-NET_data
 
-plot1.R
-'
+##plot1.R
+`
 #Author: Rui La
 #Email: larui529@gmail.com
 #project goal: to analyze the effect of PM2.5 to huamn health. 
@@ -30,4 +30,4 @@ barplot(
 )
 
 dev.off()
-'
+`
