@@ -29,5 +29,5 @@ barplot(
   main="Total PM2.5 Emissions From All US Sources"
 )
 
-dev.off()
+`dev.off()`
 `
